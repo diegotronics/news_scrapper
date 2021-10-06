@@ -1,0 +1,3 @@
+Links = //article//h2[@class="abstract-title"]/a/@href
+Titulo = //article/div/header/h1/span/text()
+Cuerpo = //div[@class="article-content"]//p/text()

@@ -1,6 +1,5 @@
 import requests
 import lxml.html as html
-from requests import status_codes
 import datetime
 import os
 
